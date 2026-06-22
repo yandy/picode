@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "git:https://github.com/hasit/pi-community-themes",
+    "npm:@gotgenes/pi-subagents",
+    "npm:@gotgenes/pi-permission-system",
+    "npm:@yandy0725/pi-web-tools",
+    "npm:@yandy0725/pi-coding-tools",
+    "git:github.com/yandy/superpowers@pi"
+  ],
+  "lastChangelogVersion": "0.79.9",
+  "theme": "catppuccin-mocha",
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-pro",
+  "defaultThinkingLevel": "xhigh"
+}
