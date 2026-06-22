@@ -95,3 +95,9 @@ playwright install chromium firefox
 npx ctx7 login
 # npx ctx7 setup --pi
 ```
+
+## 3. TODO
+
+- [-] [lsp](https://github.com/code-yeongyu/pi-lsp-client)
+- [-] [ast-grep](https://github.com/code-yeongyu/pi-ast-grep)
+- [-] [todo](https://github.com/code-yeongyu/pi-todotools)
