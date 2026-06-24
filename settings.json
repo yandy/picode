@@ -9,7 +9,7 @@
     "npm:@yandy0725/pi-todo",
     "git:github.com/yandy/superpowers@pi"
   ],
-  "lastChangelogVersion": "0.79.10",
+  "lastChangelogVersion": "0.80.2",
   "theme": "catppuccin-mocha",
   "defaultProvider": "deepseek",
   "defaultModel": "deepseek-v4-pro",

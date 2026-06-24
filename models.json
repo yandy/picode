@@ -42,14 +42,7 @@
           "name": "GLM 5.2",
           "input": ["text"],
           "reasoning": true,
-          "thinkingLevelMap": {
-            "off":null,
-            "minimal": null,
-            "low": null,
-            "medium": null,
-            "high": "high",
-            "xhigh": "max"
-          },
+          "thinkingLevelMap": { "minimal": null, "low": "high", "medium": "high", "high": "high", "xhigh": "max"},
           "contextWindow": 1048576,
           "maxTokens": 131072,
           "cost": { "input": 8, "output": 28, "cacheRead": 2, "cacheWrite": 8 }
@@ -76,14 +69,7 @@
           "name": "GLM 5.2",
           "input": ["text"],
           "reasoning": true,
-          "thinkingLevelMap": {
-            "off":null,
-            "minimal": null,
-            "low": null,
-            "medium": null,
-            "high": "high",
-            "xhigh": "max"
-          },
+          "thinkingLevelMap": { "minimal": null, "low": "high", "medium": "high", "high": "high", "xhigh": "max"},
           "contextWindow": 1048576,
           "maxTokens": 131072,
           "cost": { "input": 8, "output": 28, "cacheRead": 2, "cacheWrite": 0 }

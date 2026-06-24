@@ -18,7 +18,8 @@
     },
 
     "external_directory": {
-      "*": "ask"
+      "*": "ask",
+      "/tmp/*": "allow"
     },
 
     "bash": {
