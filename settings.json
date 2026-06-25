@@ -1,13 +1,14 @@
 {
   "packages": [
     "git:https://github.com/hasit/pi-community-themes",
+    "git:github.com/yandy/superpowers@pi",
     "npm:pi-ask-user",
     "npm:@gotgenes/pi-subagents",
     "npm:@gotgenes/pi-permission-system",
     "npm:@yandy0725/pi-web-tools",
     "npm:@yandy0725/pi-coding-tools",
     "npm:@yandy0725/pi-todo",
-    "git:github.com/yandy/superpowers@pi"
+    "npm:@yandy0725/pi-vision-tools"
   ],
   "lastChangelogVersion": "0.80.2",
   "theme": "catppuccin-mocha",
