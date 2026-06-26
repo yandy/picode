@@ -8,7 +8,6 @@ npm install -g @earendil-works/pi-coding-agent
 
 # clone config
 git clone https://github.com/yandy/picode.git ~/.pi/agent-code
-cp ~/.pi/agent-code/models.json{.tmpl,}
 ```
 
 ### add `picode`
