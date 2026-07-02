@@ -8,7 +8,8 @@
     "npm:@yandy0725/pi-coding-tools",
     "npm:@yandy0725/pi-todo",
     "npm:@yandy0725/pi-vision-tools",
-    "npm:@yandy0725/pi-ask-user"
+    "npm:@yandy0725/pi-ask-user",
+    "npm:@yandy0725/pi-memory"
   ],
   "lastChangelogVersion": "0.80.2",
   "theme": "catppuccin-mocha",
