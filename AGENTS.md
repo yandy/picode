@@ -20,3 +20,10 @@
 - cheap model: `deepseek/deepseek-v4-flash`
 - standard model:  `deepseek/deepseek-v4-pro`
 - most capable model: `tencent/glm-5.2`
+
+# 经验教训集合
+
+- 已确认决策不可单方面修改：实现中发现更优方案必须先提出并获得用户确认，不得擅自变更
+- 流程不跳步：产生'这一步可以跳过'的念头恰恰说明必须做，先确认当前阶段再执行下一阶段
+- 多步骤指令全部执行完才算完成：如push后必须自动创建PR，所有步骤完成才能报告done
+- 方案自检：提出方案后必须验证有效性，确认它能检测/解决目标问题再提交
