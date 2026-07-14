@@ -20,10 +20,6 @@
     "external_directory": {
       "*": "ask",
       "/tmp/*": "allow"
-    },
-
-    "bash": {
-      "rm -rf *": "ask"
     }
   }
 }
