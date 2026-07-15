@@ -1,6 +1,5 @@
 {
   "defaults": {
-    "model": "deepseek/deepseek-v4-flash",
-    "sessionPersistence": { "enabled": true }
+    "model": "deepseek/deepseek-v4-flash"
   }
 }
