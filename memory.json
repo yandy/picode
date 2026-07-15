@@ -1,11 +1,6 @@
 {
-  "dream": {
-    "model": "deepseek/deepseek-v4-flash"
-  },
-  "autoSurfacing": {
-    "model": "deepseek/deepseek-v4-flash"
-  },
-  "extractMemories": {
-    "model": "deepseek/deepseek-v4-flash"
+  "defaults": {
+    "model": "deepseek/deepseek-v4-flash",
+    "sessionPersistence": { "enabled": true }
   }
 }
