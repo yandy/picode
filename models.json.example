@@ -78,16 +78,6 @@
           "contextWindow": 1048576,
           "maxTokens": 65536,
           "cost": { "input": 2, "output": 8, "cacheRead": 0.4, "cacheWrite": 2 }
-        },
-        {
-          "id": "glm-5.2",
-          "name": "GLM 5.2",
-          "input": ["text"],
-          "reasoning": true,
-          "thinkingLevelMap": { "minimal": null, "low": null, "medium": null, "high": "high", "xhigh": "max"},
-          "contextWindow": 1048576,
-          "maxTokens": 131072,
-          "cost": { "input": 8, "output": 28, "cacheRead": 2, "cacheWrite": 8 }
         }
       ]
     },
